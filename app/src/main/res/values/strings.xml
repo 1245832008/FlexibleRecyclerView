@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlexibleRecyclerView</string>
+    <string name="loadmore_error">加载失败,点击重试</string>
+</resources>
